@@ -1,0 +1,29 @@
+body{
+    background-image: url('images/stars3.gif');
+    background-size: auto;
+    background-position: center;
+    margin: 0; 
+}
+
+.item1{
+    margin: auto;
+    max-width: 40px;
+}
+
+.item2{
+    margin: 150px auto 0 auto;
+    max-width: 900px;
+
+}
+
+.container{
+    max-width: 900px;
+    margin: auto;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1 rem;
+    color: rgb(5, 5, 5);
+    border: 2px solid rgb(79, 75, 75);
+    background-color: aliceblue;
+   
+
+}
